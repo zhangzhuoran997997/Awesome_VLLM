@@ -1,2 +1,2 @@
 # Awesome_VLLM
-multimodal LLM
+multi-modal LLM
